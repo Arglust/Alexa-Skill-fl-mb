@@ -1,4 +1,4 @@
-package de.jk.tum.lambda;
+package main.alexa.skill;
 
 import com.amazon.speech.speechlet.IntentRequest;
 import com.amazon.speech.speechlet.LaunchRequest;

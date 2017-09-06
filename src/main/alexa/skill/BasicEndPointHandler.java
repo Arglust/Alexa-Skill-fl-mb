@@ -1,4 +1,4 @@
-package de.jk.tum.lambda;
+package main.alexa.skill;
 
 import java.util.HashSet;
 import java.util.Set;

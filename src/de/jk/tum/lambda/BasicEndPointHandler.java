@@ -20,6 +20,8 @@ public class BasicEndPointHandler extends SpeechletRequestStreamHandler {
 		 * in this Set.
 		 */
 		//supportedApplicationIds.add("amzn1.echo-sdk-ams.app.amzn1.ask.skill.[]");
+		
+		//jhhh
 	}
 
 }
